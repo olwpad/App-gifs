@@ -1,0 +1,2 @@
+# app-gifs
+La página "Buscador de GIFs" de Luis Ortiz es una plataforma web diseñada para buscar GIFs animados en línea. Ofrece una interfaz simple y fácil de usar que permite a los usuarios ingresar palabras clave para encontrar GIFs relacionados con temas específicos. La página utiliza la API de GIPHY para recuperar una gran cantidad de GIFs de alta calidad, que se pueden ver en la página de resultados de búsqueda. 
